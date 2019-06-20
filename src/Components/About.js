@@ -19,7 +19,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Sagar Ghimire Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -31,10 +31,9 @@ class About extends Component {
                   <p className="address">
 						   <span>{name}</span><br />
 						   <span>{city}<br />
-						         {state}, {zip}
-                   </span><br />
+                   </span>
 						   <span>{phone}</span><br />
-                     <span><a href="mailto:tbakerx@gmail.com">{email}</a></span>
+                     <span><a href="mailto:mailtosagarghimire@gmail.com">{email}</a></span>
 					   </p>
                </div>
                <div className="columns download">
