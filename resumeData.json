@@ -1,0 +1,50 @@
+{
+  "main": {
+    "name": "Sagar Ghimire",
+    "occupation": "Software Engineering Student",
+    "description": "I am  one semester away from finishing my ",
+    "school": "Tribhuwan University",
+    "degree": "Bachelors in Computer Science and Information Technology",
+    "image": "profile_pic.jpg",
+    "bio": "I am a passionate programmer capable to adjust in any sort of environment.I am more focused on making the quality software than the perfect one because we dont live in a perfect world and nothing is perfect.Delivering  the quality software at a given deadline will be my motto thoughout my carrier.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "mailtosagarghimire@gmail.com",
+    "phone": "+977 9823484572",
+    "address": {
+      "city": "Kathmandu"
+
+    },
+    "resumedownload": "https://drive.google.com/open?id=1GlMtZc3K1pwSU4_uYa2sCEZAhVm9mavK",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/Sagar7Ghimire",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "google-plus",
+        "url": "https://www.facebook.com/Sagar7Ghimire",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sagar-ghimire-703723134/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/itsmesagarghimire/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/9624837/sagar-ghimire",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/iamsagar7",
+        "className": "fa fa-github"
+      }
+    ]
+  }
+}
